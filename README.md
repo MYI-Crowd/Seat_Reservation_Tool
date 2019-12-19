@@ -8,4 +8,4 @@ An admin can also reset the floor plan after entering the admin password.
 The reservation tool has been programmed using Python. Tkinter has been used for the GUI.
 To run the reservation tool, execute the "Seat Reservation Tool.py" file.
 
-The seat reservation tool has been programmed by Jan Gwerder, Katharina Haglund, Luca Hartmann and Roberto Pompeo and for the course Programming with Advanced Computer Languages @ HSG
+The seat reservation tool has been programmed by Jan Gwerder, Katharina Haglund, Luca Hartmann and Roberto Pompeo and for the course Programming with Advanced Computer Languages @ HSG.
