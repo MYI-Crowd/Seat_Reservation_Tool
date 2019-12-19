@@ -221,12 +221,12 @@ def checkAvailability():
 	#counts available seats on floor 1 
 	for row in seats1:
 		for cell in row:
-			if cell==0:
+			if cell=='0':
 				av1 += 1
     #counts available seats on floor 2
 	for row in seats1:
 		for cell in row:
-			if cell==0:
+			if cell=='0':
 				av2 += 1
 	#adds avilable seats on floor 1 and floor 2 together.
 	avtot = av1 + av2
